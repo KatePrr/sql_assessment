@@ -1,0 +1,30 @@
+body {
+    margin: 50px;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+.newAddress {
+
+}
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-family: Tahoma, Geneva, sans-serif;
+}
+
+input:focus {
+    background-color: lightgrey;
+}
+
+button {
+    width: 100%;
+    background-color: #9acfea;
+    padding: 5px;
+    font-family: Tahoma, Geneva, sans-serif;
+    font-size: inherit;
+    height: 30px;
+    border-radius: 15px;
+    border: 1px solid #7FFFD4;
+
+}
